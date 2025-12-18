@@ -22,8 +22,8 @@ VisaPilot focuses on **clarity, preparation, and accessibility**, not legal advi
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [Visit the Website](https://visa-pilot-turquoise.lovable.app/)
-🎥 **Demo Video:** [Watch Demo on YouTube](https://youtu.be/Ob36WuzdOOs)  
+🔗 **Website:** [Visit the Website](https://visa-pilot-turquoise.lovable.app/) <br>
+🎥 **Demo Video:** [Watch Demo on YouTube](https://youtu.be/Ob36WuzdOOs) <br> 
 💻 **GitHub Repo:** [Visit the Repository](https://github.com/Aadya2901/visa-pilot)
 
 ---
